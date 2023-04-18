@@ -1,0 +1,5 @@
+Simulação Computacional: Partícula carregada em um Campo Elétrico Uniforme
+
+
+Trabalho para matéria de Física C, no qual foi-se utilizada a linguagem de programação Processing Java para simular a trajetória de uma
+partícula carregada numa região de campo elétrico uniforme.
